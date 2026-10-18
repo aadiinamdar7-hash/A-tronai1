@@ -1,7 +1,0 @@
-
-Flask
-Flask-Cors
-Flask-Limiter
-requests
-python-dotenv
-gunicorn
