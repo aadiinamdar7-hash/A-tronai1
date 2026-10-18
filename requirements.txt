@@ -1,0 +1,6 @@
+Flask~=3.0
+flask-cors~=4.0
+Flask-Limiter~=3.5
+requests~=2.31
+python-dotenv~=1.0
+gunicorn~=22.0
